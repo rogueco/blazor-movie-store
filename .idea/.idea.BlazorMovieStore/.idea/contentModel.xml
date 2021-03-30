@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_BlazorMovieStore.-1263334919.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BlazorMovieStore.sln" t="IncludeFlat" />
+      <e p="Client" t="IncludeRecursive">
+        <e p="App.razor" t="Include" />
+        <e p="BlazorMovieStore.Client.csproj" t="IncludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="StringUtilities.cs" t="Include" />
+        </e>
+        <e p="Pages" t="Include">
+          <e p="Counter.razor" t="Include" />
+          <e p="FetchData.razor" t="Include" />
+          <e p="Index.razor" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="DummyTextbox.razor" t="Include" />
+          <e p="IndividualMovie.razor" t="Include" />
+          <e p="MainLayout.razor" t="Include" />
+          <e p="MainLayout.razor.css" t="Include" />
+          <e p="MovieList.razor" t="Include" />
+          <e p="NavMenu.razor" t="Include" />
+          <e p="NavMenu.razor.css" t="Include" />
+          <e p="SurveyPrompt.razor" t="Include" />
+        </e>
+        <e p="_Imports.razor" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="BlazorMovieStore.Client.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="app.css" t="Include" />
+            <e p="bootstrap" t="Include">
+              <e p="bootstrap.min.css" t="Include" />
+              <e p="bootstrap.min.css.map" t="Include" />
+            </e>
+            <e p="open-iconic" t="Include">
+              <e p="FONT-LICENSE" t="Include" />
+              <e p="ICON-LICENSE" t="Include" />
+              <e p="README.md" t="Include" />
+              <e p="font" t="Include">
+                <e p="css" t="Include">
+                  <e p="open-iconic-bootstrap.min.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="open-iconic.eot" t="Include" />
+                  <e p="open-iconic.otf" t="Include" />
+                  <e p="open-iconic.svg" t="Include" />
+                  <e p="open-iconic.ttf" t="Include" />
+                  <e p="open-iconic.woff" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="index.html" t="Include" />
+        </e>
+      </e>
+      <e p="Server" t="IncludeRecursive">
+        <e p="BlazorMovieStore.Server.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="Pages" t="Include">
+          <e p="Error.cshtml" t="Include" />
+          <e p="Error.cshtml.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="BlazorMovieStore.Server.AssemblyInfo.cs" t="Include" />
+              <e p="BlazorMovieStore.Server.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Shared" t="IncludeRecursive">
+        <e p="Android" t="Include" />
+        <e p="BlazorMovieStore.Shared.csproj" t="IncludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="Movie.cs" t="Include" />
+        </e>
+        <e p="Linux" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+        <e p="Windows" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="browser" t="Include" />
+        <e p="iOS" t="Include" />
+        <e p="macOS" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="BlazorMovieStore.Shared.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

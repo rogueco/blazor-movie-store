@@ -1,0 +1,64 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMovieStore.Server", "Server\BlazorMovieStore.Server.csproj", "{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMovieStore.Client", "Client\BlazorMovieStore.Client.csproj", "{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMovieStore.Shared", "Shared\BlazorMovieStore.Shared.csproj", "{92FFE278-28EF-47B2-92CD-DE5C64C945D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Debug|x64.Build.0 = Debug|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Debug|x86.Build.0 = Debug|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Release|x64.ActiveCfg = Release|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Release|x64.Build.0 = Release|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Release|x86.ActiveCfg = Release|Any CPU
+		{BBBA7BF9-BCD6-41B1-AEF2-A422922AC81D}.Release|x86.Build.0 = Release|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Debug|x64.Build.0 = Debug|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Debug|x86.Build.0 = Debug|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Release|x64.ActiveCfg = Release|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Release|x64.Build.0 = Release|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Release|x86.ActiveCfg = Release|Any CPU
+		{6F4CE4E5-1E85-4875-BAC7-1331A377B6F8}.Release|x86.Build.0 = Release|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Debug|x64.Build.0 = Debug|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Debug|x86.Build.0 = Debug|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Release|x64.ActiveCfg = Release|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Release|x64.Build.0 = Release|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Release|x86.ActiveCfg = Release|Any CPU
+		{92FFE278-28EF-47B2-92CD-DE5C64C945D1}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30BDB63D-E4B5-4B5A-A22E-31FDF8F40C6B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Server/BlazorMovieStore.Server.csproj": {}
+  },
+  "projects": {
+    "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Client/BlazorMovieStore.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Client/BlazorMovieStore.Client.csproj",
+        "projectName": "BlazorMovieStore.Client",
+        "projectPath": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Client/BlazorMovieStore.Client.csproj",
+        "packagesPath": "/home/tfletcher/.nuget/packages/",
+        "outputPath": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tfletcher/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/BlazorMovieStore.Shared.csproj": {
+                "projectPath": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/BlazorMovieStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Server/BlazorMovieStore.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Server/BlazorMovieStore.Server.csproj",
+        "projectName": "BlazorMovieStore.Server",
+        "projectPath": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Server/BlazorMovieStore.Server.csproj",
+        "packagesPath": "/home/tfletcher/.nuget/packages/",
+        "outputPath": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tfletcher/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Client/BlazorMovieStore.Client.csproj": {
+                "projectPath": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Client/BlazorMovieStore.Client.csproj"
+              },
+              "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/BlazorMovieStore.Shared.csproj": {
+                "projectPath": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/BlazorMovieStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/BlazorMovieStore.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/BlazorMovieStore.Shared.csproj",
+        "projectName": "BlazorMovieStore.Shared",
+        "projectPath": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/BlazorMovieStore.Shared.csproj",
+        "packagesPath": "/home/tfletcher/.nuget/packages/",
+        "outputPath": "/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tfletcher/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

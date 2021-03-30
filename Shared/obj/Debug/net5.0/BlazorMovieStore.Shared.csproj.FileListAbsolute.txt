@@ -1,0 +1,12 @@
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/bin/Debug/net5.0/BlazorMovieStore.Shared.deps.json
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/bin/Debug/net5.0/BlazorMovieStore.Shared.dll
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/bin/Debug/net5.0/ref/BlazorMovieStore.Shared.dll
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/bin/Debug/net5.0/BlazorMovieStore.Shared.pdb
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/obj/Debug/net5.0/BlazorMovieStore.Shared.csprojAssemblyReference.cache
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/obj/Debug/net5.0/BlazorMovieStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/obj/Debug/net5.0/BlazorMovieStore.Shared.AssemblyInfoInputs.cache
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/obj/Debug/net5.0/BlazorMovieStore.Shared.AssemblyInfo.cs
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/obj/Debug/net5.0/BlazorMovieStore.Shared.csproj.CoreCompileInputs.cache
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/obj/Debug/net5.0/BlazorMovieStore.Shared.dll
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/obj/Debug/net5.0/ref/BlazorMovieStore.Shared.dll
+/home/tfletcher/Git/Development/ASP.NET/BlazorMovieStore/BlazorMovieStore/Shared/obj/Debug/net5.0/BlazorMovieStore.Shared.pdb

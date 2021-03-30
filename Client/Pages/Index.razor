@@ -1,0 +1,38 @@
+﻿@page "/"
+
+<div>
+    <h3>Movies</h3>
+    <MovieList Movies="_movies"/>
+</div>
+
+<div>
+    <h2>Create a Movie</h2>
+    <DummyTextbox placeholder="movie name"/>
+</div>
+
+@code
+{
+    private List<Movie> _movies;
+
+    protected override void OnInitialized()
+    {
+        _movies = new List<Movie>()
+        {
+            new Movie
+            {
+                Title = "Spider-Man: Far From Home",
+                ReleaseDate = new DateTime(2017, 7, 2)
+            },
+            new Movie
+            {
+                Title = "Moana",
+                ReleaseDate = new DateTime(2016, 11, 23)
+            },
+            new Movie
+            {
+                Title = "Inception",
+                ReleaseDate = new DateTime(2010, 7, 16)
+            }
+        };
+    }
+}
